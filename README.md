@@ -11,7 +11,6 @@ This repository contains a Telegram bot that integrates with the Gemini API and 
 ```
 📂 Telegram-Gemini-Bot
 ├── main.py  # Main Telegram bot script
-├── config.py  # Configuration file with API keys
 ├── requirements.txt  # Python dependencies
 ├── README.md  # Documentation
 └── .env  # Environment variables (not included in repo)
