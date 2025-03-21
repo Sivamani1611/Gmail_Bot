@@ -10,7 +10,7 @@ This repository contains a Telegram bot that integrates with the Gemini API and 
 ## Repository Structure
 ```
 📂 Telegram-Gemini-Bot
-├── bot.py  # Main Telegram bot script
+├── main.py  # Main Telegram bot script
 ├── config.py  # Configuration file with API keys
 ├── requirements.txt  # Python dependencies
 ├── README.md  # Documentation
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 ### 5. Running the Bot
 Start the bot with:
 ```bash
-python bot.py
+python main.py
 ```
 
 ## Usage
